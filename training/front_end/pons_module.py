@@ -12,6 +12,7 @@ class PonsConvModule(nn.Module):
     def __init__(self, config):
         super(PonsConvModule, self).__init__()
         self.input_bn = nn.BatchNorm2d(1)
+
         m1 = VerticalConv(1, config.conv_channels, (int(0.9*96), 7))
         m2 = VerticalConv(1, config.conv_channels*2, (int(0.9*96), 3))
         m3 = VerticalConv(1, config.conv_channels*4, (int(0.9*96), 1))

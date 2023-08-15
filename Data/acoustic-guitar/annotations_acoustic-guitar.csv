@@ -1,0 +1,392 @@
+file_id,file_name,performer,instrument,emotion,emotional_intensity,recording_date,playing_technique,microphone_type,microphone_position,string_age,expertise_level,nationality,guitar_info,strings_info,microphone_info
+1,1_aggressive_i1_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,aggressive,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+2,2_aggressive_i2_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,aggressive,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+3,3_aggressive_i3_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,aggressive,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+4,4_happy_i1_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,happy,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+5,5_happy_i2_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,happy,2,20200625,pick,piezo,internal,1,expert,Italian,,,
+6,6_happy_i3_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,happy,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+7,7_relaxed_i1_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,relaxed,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+8,8_relaxed_i2_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,relaxed,2,20200625,pick,piezo,internal,1,expert,Italian,,,
+9,9_relaxed_i3_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,relaxed,2,20200625,pick,piezo,internal,1,expert,Italian,,,
+10,10_sad_i1_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,sad,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+11,11_sad_i2_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,sad,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+12,12_sad_i3_steelstring-guitar_LucTur_pick_20200625,LucTur,steelstring-guitar,sad,3,20200625,pick,piezo,internal,1,expert,Italian,,,
+13,13_aggressive_i1_steelstring-guitar_DavBen_pick_20200623,DavBen,steelstring-guitar,aggressive,2,20200623,pick,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+14,14_aggressive_i2_steelstring-guitar_DavBen_pick_20200623,DavBen,steelstring-guitar,aggressive,1,20200623,pick,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+15,15_aggressive_i3_steelstring-guitar_DavBen_pick_20200623,DavBen,steelstring-guitar,aggressive,2,20200623,pick,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+16,16_happy_i1_steelstring-guitar_DavBen_fingers_20200623,DavBen,steelstring-guitar,happy,2,20200623,fingers,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+17,17_happy_i2_steelstring-guitar_DavBen_pick_20200623,DavBen,steelstring-guitar,happy,3,20200623,pick,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+18,18_happy_i3_steelstring-guitar_DavBen_fingers_20200623,DavBen,steelstring-guitar,happy,2,20200623,fingers,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+19,19_relaxed_i1_steelstring-guitar_DavBen_pick_20200623,DavBen,steelstring-guitar,relaxed,3,20200623,pick,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+20,20_relaxed_i2_steelstring-guitar_DavBen_pick_20200623,DavBen,steelstring-guitar,relaxed,2,20200623,pick,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+21,21_relaxed_i3_steelstring-guitar_DavBen_fingers_20200623,DavBen,steelstring-guitar,relaxed,1,20200623,fingers,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+22,22_sad_i1_steelstring-guitar_DavBen_pick+fingers_20200623,DavBen,steelstring-guitar,sad,2,20200623,pick+fingers,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+23,23_sad_i2_steelstring-guitar_DavBen_fingers_20200623,DavBen,steelstring-guitar,sad,2,20200623,fingers,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+24,24_sad_i3_steelstring-guitar_DavBen_fingers_20200623,DavBen,steelstring-guitar,sad,3,20200623,fingers,condenser,external,4,expert,Italian,Fender,D'Addario EZ910,Sure SM58
+25,25_aggressive_i1_classical-guitar_DavBen_fingers_20200526,DavBen,classical-guitar,aggressive,2,20200526,fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+26,26_aggressive_i2_classical-guitar_DavBen_pick_20200526,DavBen,classical-guitar,aggressive,2,20200526,pick,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+27,27_aggressive_i3_classical-guitar_DavBen_pick_20200526,DavBen,classical-guitar,aggressive,1,20200526,pick,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+28,28_happy_i1_classical-guitar_DavBen_pick_20200526,DavBen,classical-guitar,happy,2,20200526,pick,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+29,29_happy_i2_classical-guitar_DavBen_fingers_20200526,DavBen,classical-guitar,happy,1,20200526,fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+30,30_happy_i3_classical-guitar_DavBen_fingers_20200526,DavBen,classical-guitar,happy,1,20200526,fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+31,31_relaxed_i1_classical-guitar_DavBen_fingers_20200526,DavBen,classical-guitar,relaxed,2,20200526,fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+32,32_relaxed_i2_classical-guitar_DavBen_pick+fingers_20200526,DavBen,classical-guitar,relaxed,3,20200526,pick+fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+33,33_relaxed_i3_classical-guitar_DavBen_pick+fingers_20200526,DavBen,classical-guitar,relaxed,3,20200526,pick+fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+34,34_sad_i1_classical-guitar_DavBen_fingers_20200526,DavBen,classical-guitar,sad,2,20200526,fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+35,35_sad_i2_classical-guitar_DavBen_fingers_20200526,DavBen,classical-guitar,sad,3,20200526,fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+36,36_sad_i3_classical-guitar_DavBen_fingers_20200526,DavBen,classical-guitar,sad,1,20200526,fingers,condenser,external,8,expert,Italian,Yamaha cg192s,,Sure SM58
+37,37_aggressive_i1_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,aggressive,3,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+38,38_aggressive_i2_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,aggressive,1,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+39,39_aggressive_i3_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,aggressive,2,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+40,40_happy_i1_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,happy,1,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+41,41_happy_i2_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,happy,2,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+42,42_happy_i3_steelstring-guitar_OweWin_fingers_20200629,OweWin,steelstring-guitar,happy,3,20200629,fingers,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+43,43_relaxed_i1_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,relaxed,2,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+44,44_relaxed_i2_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,relaxed,2,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+45,45_relaxed_i3_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,relaxed,3,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+46,46_sad_i1_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,sad,2,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+47,47_sad_i2_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,sad,3,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+48,48_sad_i3_steelstring-guitar_OweWin_pick_20200629,OweWin,steelstring-guitar,sad,1,20200629,pick,condenser,external,5,expert,Italian,Suzuki,D'Addario EJ11 80\20 Bronze,Shure sm81
+49,49_aggressive_i1_steelstring-guitar_ValFui_pick_20200627,ValFui,steelstring-guitar,aggressive,2,20200627,pick,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+50,50_aggressive_i2_steelstring-guitar_ValFui_pick_20200627,ValFui,steelstring-guitar,aggressive,3,20200627,pick,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+51,51_aggressive_i3_steelstring-guitar_ValFui_pick_20200627,ValFui,steelstring-guitar,aggressive,2,20200627,pick,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+52,52_happy_i1_steelstring-guitar_ValFui_fingers_20200627,ValFui,steelstring-guitar,happy,1,20200627,fingers,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+53,53_happy_i2_steelstring-guitar_ValFui_fingers_20200627,ValFui,steelstring-guitar,happy,2,20200627,fingers,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+54,54_happy_i3_steelstring-guitar_ValFui_fingers_20200627,ValFui,steelstring-guitar,happy,3,20200627,fingers,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+55,55_relaxed_i1_steelstring-guitar_ValFui_pick_20200627,ValFui,steelstring-guitar,relaxed,2,20200627,pick,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+56,56_relaxed_i2_steelstring-guitar_ValFui_fingers_20200627,ValFui,steelstring-guitar,relaxed,2,20200627,fingers,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+57,57_relaxed_i3_steelstring-guitar_ValFui_fingers_20200627,ValFui,steelstring-guitar,relaxed,1,20200627,fingers,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+58,58_sad_i1_steelstring-guitar_ValFui_fingers_20200627,ValFui,steelstring-guitar,sad,3,20200627,fingers,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+59,59_sad_i2_steelstring-guitar_ValFui_fingers_20200627,ValFui,steelstring-guitar,sad,2,20200627,fingers,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+60,60_sad_i3_steelstring-guitar_ValFui_fingers_20200627,ValFui,steelstring-guitar,sad,2,20200627,fingers,condenser+piezo,internal,5,expert,Italian,,elixir modello 11000,condenser+piezo
+61,61_aggressive_i1_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,aggressive,3,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+62,62_aggressive_i2_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,aggressive,1,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+63,63_aggressive_i3_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,aggressive,2,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+64,64_happy_i1_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,happy,1,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+65,65_happy_i2_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,happy,2,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+66,66_happy_i3_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,happy,3,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+67,67_relaxed_i1_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,relaxed,2,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+68,68_relaxed_i2_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,relaxed,3,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+69,69_relaxed_i3_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,relaxed,3,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+70,70_sad_i1_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,sad,3,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+71,71_sad_i2_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,sad,2,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+72,72_sad_i3_steelstring-guitar_AdoLaV_pick_20200619,AdoLaV,steelstring-guitar,sad,3,20200619,pick,condenser,external,8,expert,Italian,WASHBURN R314,D'ADDARIO BRONZE 80/20,ZOOM H6
+73,73_aggressive_i1_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,aggressive,2,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+74,74_aggressive_i2_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,aggressive,2,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+75,75_aggressive_i3_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,aggressive,3,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+76,76_happy_i1_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,happy,2,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+77,77_happy_i2_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,happy,3,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+78,78_happy_i3_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,happy,1,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+79,79_relaxed_i1_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,relaxed,3,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+80,80_relaxed_i2_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,relaxed,3,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+81,81_relaxed_i3_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,relaxed,2,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+82,82_sad_i1_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,sad,1,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+83,83_sad_i2_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,sad,3,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+84,84_sad_i3_classical-guitar_MatRig_fingers_20200618,MatRig,classical-guitar,sad,2,20200618,fingers,condenser,external,3,expert,Italian,,Galli Strings GR95 Normal, Shure SM 94
+85,85_aggressive_i1_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,aggressive,3,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+86,86_aggressive_i2_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,aggressive,2,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+87,87_aggressive_i3_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,aggressive,1,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+88,88_happy_i1_steelstring-guitar_TomCan_pick_palm_mute_20200707,TomCan,steelstring-guitar,happy,1,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+89,89_happy_i2_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,happy,3,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+90,90_happy_i3_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,happy,2,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+91,91_relaxed_i1_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,relaxed,2,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+92,92_relaxed_i2_steelstring-guitar_TomCan_pick_harmonics_20200707,TomCan,steelstring-guitar,relaxed,3,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+93,93_relaxed_i3_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,relaxed,1,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+94,94_sad_i1_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,sad,2,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+95,95_sad_i2_steelstring-guitar_TomCan_pick_20200707,TomCan,steelstring-guitar,sad,3,20200707,pick,piezo,internal,1,expert,Italian,,Martin extra bronze,
+96,96_sad_i3_steelstring-guitar_TomCan_pick+tapping_20200707,TomCan,steelstring-guitar,sad,1,20200707,pick+tapping,piezo,internal,1,expert,Italian,,Martin extra bronze,
+97,97_aggressive_i1_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,aggressive,3,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+98,98_aggressive_i2_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,aggressive,2,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+99,99_aggressive_i3_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,aggressive,3,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+100,100_happy_i1_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,happy,1,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+101,101_happy_i2_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,happy,2,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+102,102_happy_i3_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,happy,2,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+103,103_relaxed_i1_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,relaxed,3,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+104,104_relaxed_i2_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,relaxed,2,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+105,105_relaxed_i3_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,relaxed,1,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+106,106_sad_i1_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,sad,3,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+107,107_sad_i2_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,sad,2,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+108,108_sad_i3_steelstring-guitar_TizCam_pick_20200715,TizCam,steelstring-guitar,sad,1,20200715,pick,piezo,internal,5,expert,Italian,Martin & Co Est 1833,Elixier scalatura 011,LR Bags M1 Active Soundhole Pickup
+109,109_aggressive_i1_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,aggressive,2,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+110,110_aggressive_i2_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,aggressive,2,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+111,111_aggressive_i3_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,aggressive,2,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+112,112_happy_i1_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,happy,1,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+113,113_happy_i2_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,happy,2,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+114,114_happy_i3_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,happy,1,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+115,115_relaxed_i1_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,relaxed,1,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+116,116_relaxed_i2_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,relaxed,1,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+117,117_relaxed_i3_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,relaxed,1,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+118,118_sad_i1_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,sad,1,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+119,119_sad_i2_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,sad,1,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+120,120_sad_i3_steelstring-guitar_SteRom_fingers_20200715,SteRom,steelstring-guitar,sad,2,20200715,fingers,condenser,external,3,expert,Italian,Martin autentic 12/54,,akg 451 anniversary
+121,121_aggressive_i1_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,aggressive,2,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+122,122_aggressive_i2_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,aggressive,3,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+123,123_aggressive_i3_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,aggressive,3,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+124,124_happy_i1_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,happy,2,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+125,125_happy_i2_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,happy,1,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+126,126_happy_i3_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,happy,3,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+127,127_relaxed_i1_steelstring-guitar_SimArm_fingers+harmonics_20200711,SimArm,steelstring-guitar,relaxed,3,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+128,128_relaxed_i2_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,relaxed,2,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+129,129_relaxed_i3_steelstring-guitar_SimArm_fingers+harmonics_20200711,SimArm,steelstring-guitar,relaxed,2,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+130,130_sad_i1_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,sad,3,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+131,131_sad_i2_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,sad,2,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+132,132_sad_i3_steelstring-guitar_SimArm_fingers_20200711,SimArm,steelstring-guitar,sad,1,20200711,fingers,piezo,internal,5,expert,Italian,,Elixir Acustica 0.10-0.47,
+133,133_aggressive_i1_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,aggressive,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+134,134_aggressive_i2_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,aggressive,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+135,135_aggressive_i3_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,aggressive,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+136,136_happy_i1_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,happy,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+137,137_happy_i2_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,happy,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+138,138_happy_i3_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,happy,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+139,139_relaxed_i1_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,relaxed,2,20200715,fingers,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+140,140_relaxed_i2_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,relaxed,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+141,141_relaxed_i3_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,relaxed,2,20200715,fingers,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+142,142_sad_i1_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,sad,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+143,143_sad_i2_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,sad,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+144,144_sad_i3_steelstring-guitar_SamLor_pick_20200715,SamLor,steelstring-guitar,sad,2,20200715,pick,piezo+external-condenser,internal+external,2,expert,Italian,,elixire 0.12,Mic U87 Warm Audio
+145,145_aggressive_i1_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,aggressive,2,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+146,146_aggressive_i2_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,aggressive,1,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+147,147_aggressive_i3_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,aggressive,2,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+148,148_aggressive_i4_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,aggressive,3,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+149,149_happy_i1_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,happy,2,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+150,150_happy_i2_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,happy,1,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+151,151_happy_i3_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,happy,2,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+152,152_relaxed_i1_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,relaxed,2,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+153,153_relaxed_i2_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,relaxed,2,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+154,154_relaxed_i3_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,relaxed,3,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+155,155_relaxed_i4_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,relaxed,3,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+156,156_sad_i1_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,sad,2,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+157,157_sad_i2_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,sad,3,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+158,158_sad_i3_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,sad,3,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+159,159_sad_i4_steelstring-guitar_AleMar_pick_20200724,AleMar,steelstring-guitar,sad,2,20200724,pick,piezo,internal,9,expert,Italian,,D'ADDARIO EJ10 80/20 Bronze,
+160,160_aggressive_i1_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,aggressive,1,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+161,161_aggressive_i2_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,aggressive,2,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+162,162_aggressive_i3_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,aggressive,2,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+163,163_aggressive_i4_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,aggressive,3,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+164,164_happy_i1_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,happy,2,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+165,165_happy_i2_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,happy,1,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+166,166_happy_i3_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,happy,3,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+167,167_happy_i4_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,happy,1,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+168,168_relaxed_i1_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,relaxed,1,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+169,169_relaxed_i2_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,relaxed,3,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+170,170_relaxed_i3_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,relaxed,3,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+171,171_relaxed_i4_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,relaxed,2,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+172,172_sad_i1_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,sad,3,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+173,173_sad_i2_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,sad,2,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+174,174_sad_i3_steelstring-guitar_MasChi_fingers_20200729,MasChi,steelstring-guitar,sad,3,20200729,fingers,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+175,175_sad_i4_steelstring-guitar_MasChi_pick_20200729,MasChi,steelstring-guitar,sad,1,20200729,pick,piezo,internal,5,expert,Italian,Breedlove C25,Marca Galli RA Bronzo 80/20 – scalatura 11-52,
+176,176_aggressive_i1_steelstring-guitar_FilMel_pick_20200729,FilMel,steelstring-guitar,aggressive,2,20200729,pick,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,Tascam DR -5
+177,177_aggressive_i2_steelstring-guitar_FilMel_pick_20200729,FilMel,steelstring-guitar,aggressive,3,20200729,pick,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+178,178_aggressive_i3_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,aggressive,1,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+179,179_happy_i1_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,happy,1,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+180,180_happy_i2_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,happy,2,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+181,181_happy_i3_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,happy,2,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+182,182_relaxed_i1_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,relaxed,2,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+183,183_relaxed_i2_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,relaxed,3,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+184,184_relaxed_i3_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,relaxed,3,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+185,185_sad_i1_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,sad,2,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+186,186_sad_i2_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,sad,3,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+187,187_sad_i3_steelstring-guitar_FilMel_fingers_20200729,FilMel,steelstring-guitar,sad,2,20200729,fingers,condenser,external,6,expert,Italian,,Ernie Ball Medium Light Aluminum Bronze Acoustic – Scale 12-54,
+188,188_aggressive_i1_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,aggressive,2,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+189,189_aggressive_i2_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,aggressive,2,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+190,190_aggressive_i3_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,aggressive,1,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+191,191_happy_i1_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,happy,2,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+192,192_happy_i2_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,happy,3,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+193,193_happy_i3_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,happy,2,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+194,194_relaxed_i1_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,relaxed,3,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+195,195_relaxed_i2_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,relaxed,2,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+196,196_relaxed_i3_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,relaxed,3,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+197,197_sad_i1_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,sad,3,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+198,198_sad_i2_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,sad,2,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+199,199_sad_i3_classical-guitar_GioAcq_fingers_20200706,GioAcq,classical-guitar,sad,2,20200706,fingers,condenser,external,3,expert,Italian,,,Electrovoice
+200,200_aggressive_i1_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,aggressive,2,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+201,201_aggressive_i2_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,aggressive,2,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+202,202_aggressive_i3_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,aggressive,3,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+203,203_happy_i1_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,happy,3,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+204,204_happy_i2_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,happy,1,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+205,205_happy_i3_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,happy,2,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+206,206_relaxed_i1_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,relaxed,2,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+207,207_relaxed_i2_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,relaxed,1,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+208,208_relaxed_i3_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,relaxed,3,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+209,209_sad_i1_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,sad,1,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+210,210_sad_i2_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,sad,2,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+211,211_sad_i3_classical-guitar_TizBol_fingers_20200630,TizBol,classical-guitar,sad,2,20200630,fingers,piezo,internal,7,expert,Italian,,,dpa 4011
+212,212_aggressive_i1_classical-guitar_SalOli_fingers_20200714,SalOli,classical-guitar,aggressive,2,20200714,fingers,condenser,external,3,expert,Italian,,augustine light,
+213,213_aggressive_i2_classical-guitar_SalOli_pick_20200714,SalOli,classical-guitar,aggressive,3,20200714,pick,condenser,external,3,expert,Italian,,augustine light,
+214,214_aggressive_i3_classical-guitar_SalOli_pick_20200714,SalOli,classical-guitar,aggressive,2,20200714,pick,condenser,external,3,expert,Italian,,augustine light,
+215,215_happy_i1_classical-guitar_SalOli_pick_20200714,SalOli,classical-guitar,happy,3,20200714,pick,condenser,external,3,expert,Italian,,augustine light,
+216,216_happy_i2_classical-guitar_SalOli_fingers_20200714,SalOli,classical-guitar,happy,2,20200714,fingers,condenser,external,3,expert,Italian,,augustine light,
+217,217_happy_i3_classical-guitar_SalOli_pick_20200714,SalOli,classical-guitar,happy,3,20200714,pick,condenser,external,3,expert,Italian,,augustine light,
+218,218_relaxed_i1_classical-guitar_SalOli_fingers_20200714,SalOli,classical-guitar,relaxed,3,20200714,fingers,condenser,external,3,expert,Italian,,augustine light,
+219,219_relaxed_i2_classical-guitar_SalOli_fingers_20200714,SalOli,classical-guitar,relaxed,3,20200714,fingers,condenser,external,3,expert,Italian,,augustine light,
+220,220_relaxed_i3_classical-guitar_SalOli_fingers_20200714,SalOli,classical-guitar,relaxed,3,20200714,fingers,condenser,external,3,expert,Italian,,augustine light,
+221,221_sad_i1_classical-guitar_SalOli_fingers_20200714,SalOli,classical-guitar,sad,3,20200714,fingers,condenser,external,3,expert,Italian,,augustine light,
+222,222_sad_i2_classical-guitar_SalOli_fingers_20200714,SalOli,classical-guitar,sad,2,20200714,fingers,condenser,external,3,expert,Italian,,augustine light,
+223,223_sad_i3_classical-guitar_SalOli_fingers_20200714,SalOli,classical-guitar,sad,3,20200714,fingers,condenser,external,3,expert,Italian,,augustine light,
+236,236_aggressive_i1_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,aggressive,2,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+237,237_aggressive_i2_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,aggressive,3,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+238,238_aggressive_i3_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,aggressive,2,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+239,239_happy_i1_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,happy,1,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+240,240_happy_i2_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,happy,2,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+241,241_happy_i3_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,happy,3,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+242,242_relaxed_i1_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,relaxed,1,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+243,243_relaxed_i2_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,relaxed,3,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+244,244_relaxed_i3_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,relaxed,2,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+245,245_sad_i1_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,sad,2,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+246,246_sad_i2_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,sad,3,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+247,247_sad_i3_classical-guitar_FedCer_fingers_20200714,FedCer,classical-guitar,sad,3,20200714,fingers,condenser,external,3,expert,Italian,,Savarez Alliance medium tension,Rode NT5
+248,248_aggressive_i1_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,aggressive,2,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+249,249_aggressive_i2_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,aggressive,1,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+250,250_aggressive_i3_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,aggressive,3,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+251,251_happy_i1_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,happy,3,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+252,252_happy_i2_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,happy,2,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+253,253_happy_i3_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,happy,3,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+254,254_relaxed_i1_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,relaxed,1,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+255,255_relaxed_i2_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,relaxed,2,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+256,256_relaxed_i3_classical-guitar_CesSam_fingers+harmonics_20200720,CesSam,classical-guitar,relaxed,3,20200714,fingers+harmonics,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+257,257_sad_i1_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,sad,2,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+258,258_sad_i2_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,sad,2,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+259,259_sad_i3_classical-guitar_CesSam_fingers_20200720,CesSam,classical-guitar,sad,3,20200714,fingers,condenser,external,4,expert,Italian,,Augustine Imperial blu,AKG P420
+260,260_aggressive_i1_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,aggressive,3,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+261,261_aggressive_i2_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,aggressive,1,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+262,262_aggressive_i3_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,aggressive,2,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+263,263_happy_i1_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,happy,3,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+264,264_happy_i2_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,happy,2,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+265,265_happy_i3_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,happy,3,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+266,266_relaxed_i1_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,relaxed,3,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+267,267_relaxed_i2_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,relaxed,2,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+268,268_relaxed_i3_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,relaxed,2,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+269,269_sad_i1_steelstring-guitar_AntPao_fingers_20200801,AntPao,steelstring-guitar,sad,1,20200801,fingers,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+270,270_sad_i2_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,sad,3,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+271,271_sad_i3_steelstring-guitar_AntPao_pick_20200801,AntPao,steelstring-guitar,sad,2,20200801,pick,condenser,external,9,expert,Italian,Crafter PG-Mahogany Plus,Elixir Nanoweb (12-53),Shure SM7B
+272,272_aggressive_i1_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,aggressive,1,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+273,273_aggressive_i2_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,aggressive,2,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+274,274_aggressive_i3_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,aggressive,3,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+275,275_happy_i1_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,happy,1,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+276,276_happy_i2_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,happy,3,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+277,277_happy_i3_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,happy,2,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+278,278_relaxed_i1_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,relaxed,1,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+279,279_relaxed_i2_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,relaxed,2,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+280,280_relaxed_i3_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,relaxed,3,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+281,281_sad_i1_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,sad,1,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+282,282_sad_i2_steelstring-guitar_DavRos_pick_20200901,DavRos,steelstring-guitar,sad,2,20200901,pick,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+283,283_sad_i3_steelstring-guitar_DavRos_pick+hammeron_20200901,DavRos,steelstring-guitar,sad,3,20200901,pick+hammeron,condenser,external,3,expert,Italian,MATON EBG 808,Elixir nanoweb bronze 12-53,Beyerdynamic TG 153c
+284,284_aggressive_i1_steelstring-guitar_FraBen_pick_20200801,FraBen,steelstring-guitar,aggressive,2,20200801,pick,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+285,285_aggressive_i2_steelstring-guitar_FraBen_pick_20200801,FraBen,steelstring-guitar,aggressive,2,20200801,pick,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+286,286_aggressive_i1_steelstring-guitar_FraBen_pick_20200801,FraBen,steelstring-guitar,aggressive,2,20200801,pick,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+287,287_happy_i1_steelstring-guitar_FraBen_fingers_20200801,FraBen,steelstring-guitar,happy,2,20200801,fingers,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+288,288_happy_i2_steelstring-guitar_FraBen_fingers_20200801,FraBen,steelstring-guitar,happy,3,20200801,fingers,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+289,289_happy_i3_steelstring-guitar_FraBen_fingers_20200801,FraBen,steelstring-guitar,happy,3,20200801,fingers,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+290,290_relaxed_i1_steelstring-guitar_FraBen_pick_20200801,FraBen,steelstring-guitar,relaxed,3,20200801,pick,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+291,291_relaxed_i2_steelstring-guitar_FraBen_pick_20200801,FraBen,steelstring-guitar,relaxed,3,20200801,pick,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+292,292_relaxed_i3_steelstring-guitar_FraBen_pick_20200801,FraBen,steelstring-guitar,relaxed,2,20200801,pick,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+293,293_sad_i1_steelstring-guitar_FraBen_fingers_20200801,FraBen,steelstring-guitar,sad,2,20200801,fingers,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+294,294_sad_i1_steelstring-guitar_FraBen_fingers_20200801,FraBen,steelstring-guitar,sad,3,20200801,fingers,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+295,295_sad_i1_steelstring-guitar_FraBen_fingers_20200801,FraBen,steelstring-guitar,sad,3,20200801,fingers,condenser,external,6,expert,Italian,,,Audio Technica AT4040
+296,296_aggressive_i1_steelstring-guitar_GiaFer_pick_20200803,GiaFer,steelstring-guitar,aggressive,2,20200803,pick,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+297,297_aggressive_i2_steelstring-guitar_GiaFer_pick_20200803,GiaFer,steelstring-guitar,aggressive,1,20200803,pick,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+298,298_aggressive_i3_steelstring-guitar_GiaFer_pick_20200803,GiaFer,steelstring-guitar,aggressive,2,20200803,pick,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+299,299_happy_i1_steelstring-guitar_GiaFer_pick_20200803,GiaFer,steelstring-guitar,happy,2,20200803,pick,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+300,300_happy_i2_steelstring-guitar_GiaFer_pick_20200803,GiaFer,steelstring-guitar,happy,1,20200803,pick,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+301,301_happy_i3_steelstring-guitar_GiaFer_pick_20200803,GiaFer,steelstring-guitar,happy,3,20200803,pick,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+302,302_relaxed_i1_steelstring-guitar_GiaFer_fingers_20200803,GiaFer,steelstring-guitar,relaxed,3,20200803,fingers,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+303,303_relaxed_i2_steelstring-guitar_GiaFer_pick_20200803,GiaFer,steelstring-guitar,relaxed,2,20200803,pick,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+304,304_relaxed_i3_steelstring-guitar_GiaFer_fingers_20200803,GiaFer,steelstring-guitar,relaxed,2,20200803,fingers,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+305,305_sad_i1_steelstring-guitar_GiaFer_fingers_20200803,GiaFer,steelstring-guitar,sad,3,20200803,fingers,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+306,306_sad_i2_steelstring-guitar_GiaFer_fingers_20200803,GiaFer,steelstring-guitar,sad,1,20200803,fingers,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+307,307_sad_i3_steelstring-guitar_GiaFer_pick_20200803,GiaFer,steelstring-guitar,sad,3,20200803,pick,condenser+piezo,internal,9,expert,Italian,TAYLOR 114 CE,Elixir Bronze 0.11,L.R. Baggs Anthem
+308,308_aggressive_i1_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,aggressive,2,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+309,309_aggressive_i2_steelstring-guitar_GioDic_pick_20200821,GioDic,steelstring-guitar,aggressive,3,20200821,pick,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+310,310_aggressive_i3_steelstring-guitar_GioDic_pick_20200821,GioDic,steelstring-guitar,aggressive,1,20200821,pick,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+311,311_happy_i1_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,happy,3,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+312,312_happy_i2_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,happy,2,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+313,313_happy_i3_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,happy,2,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+314,314_relaxed_i1_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,relaxed,2,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+315,315_relaxed_i2_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,relaxed,1,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+316,316_relaxed_i3_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,relaxed,2,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+317,317_sad_i1_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,sad,2,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+318,318_sad_i2_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,sad,3,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+319,319_sad_i3_steelstring-guitar_GioDic_fingers_20200821,GioDic,steelstring-guitar,sad,3,20200821,fingers,condenser,external,5,expert,Italian,MATON EBG 808 ARTIST,ELIXIR,SCHOEPS CMC 5 - MK 4
+320,320_aggressive_i1_steelstring-guitar_NicCon_pick_20200804,NicCon,steelstring-guitar,aggressive,3,20200804,pick,piezo,internal,4,expert,Italian,,,
+321,321_aggressive_i2_steelstring-guitar_NicCon_pick_20200804,NicCon,steelstring-guitar,aggressive,2,20200804,pick,piezo,internal,4,expert,Italian,,,
+322,322_aggressive_i3_steelstring-guitar_NicCon_pick_20200804,NicCon,steelstring-guitar,aggressive,3,20200804,pick,piezo,internal,4,expert,Italian,,,
+323,323_happy_i1_steelstring-guitar_NicCon_pick_20200804,NicCon,steelstring-guitar,happy,3,20200804,pick,piezo,internal,4,expert,Italian,,,
+324,324_happy_i2_steelstring-guitar_NicCon_fingers_20200804,NicCon,steelstring-guitar,happy,2,20200804,fingers,piezo,internal,4,expert,Italian,,,
+325,325_happy_i3_steelstring-guitar_NicCon_pick_20200804,NicCon,steelstring-guitar,happy,3,20200804,pick,piezo,internal,4,expert,Italian,,,
+326,326_relaxed_i1_steelstring-guitar_NicCon_pick_20200804,NicCon,steelstring-guitar,relaxed,1,20200804,pick,piezo,internal,4,expert,Italian,,,
+327,327_relaxed_i2_steelstring-guitar_NicCon_fingers_20200804,NicCon,steelstring-guitar,relaxed,3,20200804,fingers,piezo,internal,4,expert,Italian,,,
+328,328_relaxed_i3_steelstring-guitar_NicCon_pick_20200804,NicCon,steelstring-guitar,relaxed,3,20200804,pick,piezo,internal,4,expert,Italian,,,
+329,329_sad_i1_steelstring-guitar_NicCon_fingers_20200804,NicCon,steelstring-guitar,sad,3,20200804,fingers,piezo,internal,4,expert,Italian,,,
+330,330_sad_i1_steelstring-guitar_NicCon_fingers_20200804,NicCon,steelstring-guitar,sad,2,20200804,fingers,piezo,internal,4,expert,Italian,,,
+331,331_sad_i3_steelstring-guitar_NicCon_pick_20200804,NicCon,steelstring-guitar,sad,3,20200804,pick,piezo,internal,4,expert,Italian,,,
+332,332_aggressive_i1_classical-guitar_AntDel_pick_20200831,AntDel,classical-guitar,aggressive,2,20200831,pick,condenser,external,8,expert,Italian,,Hannabach,Fishman
+333,333_aggressive_i2_classical-guitar_AntDel_pick_20200831,AntDel,classical-guitar,aggressive,2,20200831,pick,condenser,external,8,expert,Italian,,Hannabach,Fishman
+334,334_aggressive_i3_classical-guitar_AntDel_pick_20200831,AntDel,classical-guitar,aggressive,1,20200831,pick,condenser,external,8,expert,Italian,,Hannabach,Fishman
+335,335_happy_i1_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,happy,1,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+336,336_happy_i2_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,happy,1,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+337,337_happy_i3_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,happy,1,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+338,338_relaxed_i1_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,relaxed,1,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+339,339_relaxed_i2_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,relaxed,2,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+340,340_relaxed_i3_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,relaxed,2,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+341,341_sad_i1_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,sad,2,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+342,342_sad_i2_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,sad,2,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+343,343_sad_i3_classical-guitar_AntDel_fingers_20200831,AntDel,classical-guitar,sad,3,20200831,fingers,condenser,external,8,expert,Italian,,Hannabach,Fishman
+344,344_aggressive_i1_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,aggressive,3,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+345,345_aggressive_i2_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,aggressive,3,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+346,346_aggressive_i3_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,aggressive,2,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+347,347_happy_i1_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,happy,3,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+348,348_happy_i2_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,happy,1,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+349,349_happy_i3_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,happy,1,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+350,350_relaxed_i1_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,relaxed,2,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+351,351_relaxed_i2_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,relaxed,3,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+352,352_relaxed_i3_classical-guitar_NicLat_fingers_20200730,NicLat,classical-guitar,relaxed,3,20200730,fingers,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+353,353_sad_i1_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,sad,1,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+354,354_sad_i2_classical-guitar_NicLat_pick_20200730,NicLat,classical-guitar,sad,2,20200730,pick,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+355,355_sad_i3_classical-guitar_NicLat_fingers_20200730,NicLat,classical-guitar,sad,2,20200730,fingers,condenser,external,7,expert,Italian,,Savarez,Rode NT5
+356,356_aggressive_i1_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,aggressive,3,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+357,357_aggressive_i2_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,aggressive,1,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+358,358_aggressive_i3_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,aggressive,2,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+359,359_happy_i1_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,happy,3,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+360,360_happy_i2_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,happy,2,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+361,361_happy_i3_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,happy,1,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+362,362_relaxed_i1_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,relaxed,1,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+363,363_relaxed_i2_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,relaxed,2,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+364,364_relaxed_i3_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,relaxed,3,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+365,365_sad_i1_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,sad,3,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+366,366_sad_i2_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,sad,1,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+367,367_sad_i3_steelstring-guitar_LucFra_fingers_20200914,LucFra,steelstring-guitar,sad,2,20200914,fingers,condenser,external,6,expert,Italian,,ELIXIR NANO WEB 12-53 Fosforo/Bronzo,2 microphones AKG 414
+368,368_aggressive_i1_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,aggressive,3,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+369,369_aggressive_i2_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,aggressive,1,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+370,370_aggressive_i3_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,aggressive,2,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+371,371_happy_i1_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,happy,1,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+372,372_happy_i2_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,happy,2,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+373,373_happy_i3_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,happy,3,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+374,374_relaxed_i1_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,relaxed,1,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+375,375_relaxed_i2_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,relaxed,3,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+376,376_relaxed_i3_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,relaxed,2,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+377,377_sad_i1_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,sad,2,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+378,378_sad_i2_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,sad,3,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+379,379_sad_i3_classical-guitar_AngLoi_fingers_20200917,AngLoi,classical-guitar,sad,1,20200917,fingers,condenser,external,5,expert,Italian,José Ramirez 1985, Savarez Alliance Blu (high tension),Neumann 105kms
+380,380_aggressive_i1_steelstring-guitar_AngLoi_pick_20200917,AngLoi,steelstring-guitar,aggressive,1,20200917,pick,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+381,381_aggressive_i2_steelstring-guitar_AngLoi_pick_20200917,AngLoi,steelstring-guitar,aggressive,3,20200917,pick,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+382,382_aggressive_i3_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,aggressive,2,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+383,383_happy_i1_steelstring-guitar_AngLoi_pick_20200917,AngLoi,steelstring-guitar,happy,2,20200917,pick,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+384,384_happy_i2_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,happy,3,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+385,385_happy_i3_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,happy,1,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+386,386_relaxed_i1_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,relaxed,3,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+387,387_relaxed_i2_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,relaxed,2,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+388,388_relaxed_i3_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,relaxed,1,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+389,389_sad_i1_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,sad,3,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+390,390_sad_i2_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,sad,1,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+391,391_sad_i3_steelstring-guitar_AngLoi_fingers_20200917,AngLoi,steelstring-guitar,sad,2,20200917,fingers,condenser,external,3,expert,Italian,Ovation Legend made U.S.A.,Muta corde Elixir 12mm,Neumann 105kms
+392,392_aggressive_i1_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,aggressive,2,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+393,393_aggressive_i2_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,aggressive,3,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+394,394_aggressive_i3_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,aggressive,2,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+395,395_happy_i1_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,happy,2,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+396,396_happy_i2_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,happy,2,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+397,397_happy_i3_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,happy,1,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+398,398_relaxed_i1_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,relaxed,2,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+399,399_relaxed_i2_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,relaxed,1,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+400,400_relaxed_i3_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,relaxed,3,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+401,401_sad_i1_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,sad,2,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+402,402_sad_i2_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,sad,3,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,
+403,403_sad_i3_classical-guitar_MarPia_fingers_20201001,MarPia,classical-guitar,sad,2,20201001,fingers,condenser+piezo,internal,5,expert,Italian,,Savarez Alliance blue,

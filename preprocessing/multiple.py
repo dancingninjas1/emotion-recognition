@@ -1,5 +1,3 @@
-from math import ceil
-
 import torch
 import os
 import pandas as pd
@@ -8,9 +6,13 @@ from torch.utils.data import Dataset
 import librosa
 import numpy as np
 
+EMOTIONS = ['aggressive', 'relaxed', 'happy', 'sad']
+data_folder = 'C:/Users/apurv/Desktop/project/Data'
+csv_file = 'Data/acoustic-guitar/aannotations_acoustic-guitar.csv'
 
-class AudioEmotionDataset(Dataset):
-    def __init__(self, data_folder, csv_file, fold_splits=None,fold_indices=None, transform=None):
+
+class AudioEmotionDatasetMultiple(Dataset):
+    def __init__(self, data_folder, csv_files, fold_splits=None, fold_indices=None, transform=None):
         self.data_folder = data_folder
         self.transform = transform
         self.fs = 16000
@@ -18,11 +20,15 @@ class AudioEmotionDataset(Dataset):
         self.hop = 512
         self.mel = 512
 
-        if fold_splits is None:
-            # Load data and emotion labels from CSV file
-            self.data, self.labels = self._load_data_from_csv(csv_file)
-        else:
-            # Create combined dataset from specified fold indices
+        self.data = []
+        self.labels = []
+
+        for csv_file in csv_files:
+            data, labels = self._load_data_from_csv(csv_file)
+            self.data.extend(data)
+            self.labels.extend(labels)
+
+        if fold_splits is not None:
             combined_data = []
             combined_labels = []
             for fold_idx in fold_indices:
@@ -75,7 +81,14 @@ class AudioEmotionDataset(Dataset):
     def __getitem__(self, idx):
         file_name = self.data[idx]
         emotion = self.labels[idx]
-        instrument_type = 'acoustic-guitar'
+        instruments = ['acoustic-guitar', 'piano', 'electric-guitar']
+        instrument_type = 'acoustic-guitar'  # Default value
+
+        # Determine the instrument type based on the file name
+        for inst in instruments:
+            if inst in file_name:
+                instrument_type = inst
+                break
 
         file_path = os.path.join(self.data_folder, instrument_type, emotion, f'{file_name}.wav')
 
@@ -90,26 +103,3 @@ class AudioEmotionDataset(Dataset):
         except Exception as e:
             print(f"Error loading file {file_path}: {e}")
             return torch.zeros((1, 96, 1000)), EMOTIONS.index(emotion)
-
-
-EMOTIONS = ['aggressive', 'relaxed', 'happy', 'sad']
-data_folder = 'C:/Users/apurv/Desktop/project/Data'
-csv_file = 'Data/acoustic-guitar/aannotations_acoustic-guitar.csv'
-
-
-def split_dataset_folds(data, labels, fold_ranges):
-    fold_splits = []
-
-    for indices in fold_ranges:
-        fold_data = []
-        fold_labels = []
-
-        for idx in indices:
-            if 0 <= idx < len(data):
-                fold_data.append(data[idx])
-                fold_labels.append(labels[idx])
-
-        fold_splits.append({'data': fold_data, 'labels': fold_labels})
-
-    return fold_splits
-

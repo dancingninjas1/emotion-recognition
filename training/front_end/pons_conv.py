@@ -9,6 +9,7 @@ from torch.nn import functional as F
 class VerticalConv(nn.Module):
     def __init__(self, input_channels, output_channels, filter_shape):
         super(VerticalConv, self).__init__()
+
         self.conv = nn.Conv2d(input_channels, output_channels, filter_shape,
                               padding=(0, filter_shape[1]//2))
         self.bn = nn.BatchNorm2d(output_channels)
@@ -16,7 +17,7 @@ class VerticalConv(nn.Module):
 
     def forward(self, x):
         freq = x.size(2)
-        out = nn.MaxPool2d((freq, 1), stride=(freq, 1))(self.relu(self.bn(self.conv(x))))
+        out = nn.MaxPool2d((freq // 2, 1), stride=(freq // 2, 1))(self.relu(self.bn(self.conv(x))))
         out = out.squeeze(2)
         return out
 

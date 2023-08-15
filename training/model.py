@@ -92,7 +92,6 @@ class MTSA(nn.Module):
 
     def forward(self, x):
         x = x.unsqueeze(1)
-
         # Front-end
         out = self.front_end(x)
 
