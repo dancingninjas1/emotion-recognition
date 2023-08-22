@@ -3,14 +3,31 @@ from math import ceil
 import torch
 import os
 import pandas as pd
-from sklearn.model_selection import StratifiedKFold
 from torch.utils.data import Dataset
 import librosa
 import numpy as np
 
 
+import torchvision.transforms as transforms
+
+
+def add_gaussian_noise(x, mean=0, std=0.1):
+    return x + torch.randn_like(x) * std + mean
+
+
+data_transforms = transforms.Compose([
+    transforms.ToPILImage(),
+    transforms.RandomHorizontalFlip(),
+    transforms.RandomVerticalFlip(),
+    transforms.ColorJitter(brightness=0.2, contrast=0.2, saturation=0.2, hue=0.2),
+    transforms.RandomResizedCrop(size=(256, 256), scale=(0.8, 1.0)),
+    transforms.Lambda(lambda x: add_gaussian_noise(x, mean=0, std=0.1)),
+    transforms.ToTensor()
+])
+
+
 class AudioEmotionDataset(Dataset):
-    def __init__(self, data_folder, csv_file, fold_splits=None,fold_indices=None, transform=None):
+    def __init__(self, data_folder, csv_file, fold_splits=None, fold_indices=None, transform=None):
         self.data_folder = data_folder
         self.transform = transform
         self.fs = 16000
@@ -72,15 +89,23 @@ class AudioEmotionDataset(Dataset):
 
         return mel_spectrogram
 
+    def _apply_data_augmentation(self, mel_spectrogram):
+        if self.transform:
+            mel_spectrogram = self.transform(mel_spectrogram)
+        return mel_spectrogram
+
     def __getitem__(self, idx):
         file_name = self.data[idx]
         emotion = self.labels[idx]
-        instrument_type = 'acoustic-guitar'
+        instrument_type = 'electric-guitar'
 
         file_path = os.path.join(self.data_folder, instrument_type, emotion, f'{file_name}.wav')
 
         try:
             mel_spectrogram = self._compute_mel_spectrogram(file_path)
+
+            # Apply data augmentation
+            mel_spectrogram = self._apply_data_augmentation(mel_spectrogram)
 
             # Convert emotion label to numerical index
             emotion_label = EMOTIONS.index(emotion)
@@ -94,7 +119,7 @@ class AudioEmotionDataset(Dataset):
 
 EMOTIONS = ['aggressive', 'relaxed', 'happy', 'sad']
 data_folder = 'C:/Users/apurv/Desktop/project/Data'
-csv_file = 'Data/acoustic-guitar/aannotations_acoustic-guitar.csv'
+csv_file = 'Data/electric-guitar/annotations_electric-guitar.csv'
 
 
 def split_dataset_folds(data, labels, fold_ranges):
@@ -112,4 +137,3 @@ def split_dataset_folds(data, labels, fold_ranges):
         fold_splits.append({'data': fold_data, 'labels': fold_labels})
 
     return fold_splits
-
