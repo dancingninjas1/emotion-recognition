@@ -166,11 +166,11 @@ for epoch in range(num_epochs):
             performance_metrics.append(epoch_metrics)
 
 # Save the trained model
-save_path = 'C:/Users/apurv/Desktop/project/custom_model-ele.pth'
+save_path = '/results/custom_model-ele.pth'
 torch.save(custom_model.state_dict(), save_path)
 print(f"Trained model saved to {save_path}")
 
-csv_filename = 'performance_metrics-ele-report.csv'
+csv_filename = 'results/performance_metrics-ele-report.csv'
 
 # Define the header for the CSV file
 csv_header = ['epoch', 'train_folds', 'test_folds', 'phase', 'loss', 'accuracy', 'precision', 'recall', 'f1']
@@ -281,9 +281,9 @@ for epoch in range(num_epochs):
             }
             performance_metrics.append(epoch_metrics)
 
-csv_filename = 'performance_metrics-electric-report-full.csv'
+csv_filename = 'results/performance_metrics-electric-report-full.csv'
 
-save_path = 'C:/Users/apurv/Desktop/project/custom_model-ele.pth'
+save_path = '/results/custom_model-ele.pth'
 torch.save(custom_model.state_dict(), save_path)
 print(f"Trained model saved to {save_path}")
 
