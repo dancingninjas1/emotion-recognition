@@ -33,7 +33,7 @@ This repository contains the code and documentation for the Music Emotion Recogn
 
 - The main.py script serves as a central point to run experiments and build models for transfer learning.
 - Check the results/ directory for the outcomes of your experiments. Here, you'll find performance metrics, graphs, and visualizations that showcase the effectiveness of different strategies.
-- Utilize the Jupyter notebooks available in the notebooks/ directory.
+- Utilize the Jupyter notebooks available in the notebooks/ directory to unnderstand the analysis, data distribution and evaluation case study for the project
 
 
 ## Acknowledgments

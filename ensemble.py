@@ -47,7 +47,8 @@ with torch.no_grad():
 
 
 
-EMOTION= ['aggressive', 'relaxed', 'happy', 'sad']  # Replace with your label classes
+EMOTION= ['aggressive', 'relaxed', 'happy', 'sad']
+
 # Calculate the ensemble prediction by averaging the outputs of the models
 ensemble_output = (output1 + output2 + output3) / 3
 ensemble_predicted_class = torch.argmax(ensemble_output, dim=1)
