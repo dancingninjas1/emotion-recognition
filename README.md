@@ -26,8 +26,8 @@ This repository contains the code and documentation for the Music Emotion Recogn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-emotion-recognition.git
-   cd music-emotion-recognition
+   https://github.com/dancingninjas1/emotion-recognition.git
+   cd emotion-recognition
    
 ## Usage
 
