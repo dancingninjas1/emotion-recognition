@@ -23,7 +23,7 @@ audio_dataset = AudioEmotionDataset(data_folder, csv_file)
 
 
 
-random_idx = 3
+random_idx = 1
 file_name, mel_spectrogram, emotion_label = audio_dataset[random_idx]
 
 

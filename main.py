@@ -13,7 +13,6 @@ import torch.optim as optim
 import torchviz
 
 from preprocessing.foldsplit_instrument import fold_instrument
-from preprocessing.multiple import AudioEmotionDatasetMultiple
 from training.model import MTSA
 from sklearn.metrics import precision_score, recall_score, f1_score
 
@@ -66,7 +65,7 @@ optimizer = optim.Adam(filter(lambda p: p.requires_grad, custom_model.parameters
 
 # Define data folder and CSV file path
 data_folder = 'C:/Users/apurv/Desktop/project/Data'
-csv_file = 'Data/electric-guitar/annotations_electric-guitar.csv'
+csv_file = 'Data/piano/annotations_piano.csv'
 
 # Create an instance of AudioEmotionDataset
 audio_dataset = AudioEmotionDataset(data_folder, csv_file)
